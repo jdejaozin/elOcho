@@ -1,0 +1,21 @@
+#navList{
+    display: flex;
+    list-style: none;
+}
+#navItemList{
+    cursor: pointer;
+    margin-right: 1em;
+    font-weight: bold;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#imgHeader{
+    max-width: 3%;
+}
+#imgLogo{
+    max-width: 25%;
+}
